@@ -72,7 +72,7 @@ def sort_by_load(servers_dict):
 def main():
     check_if_root()
 
-    print("[ OpenVPN / ProtonVPN ]\n")
+    print("\n[ OpenVPN / ProtonVPN ]\n")
 
     print("[i] Selecting fastest VPN server ...\n")
 
